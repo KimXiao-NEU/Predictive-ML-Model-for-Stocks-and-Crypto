@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Cache & temp files
+*.cache
+*.tmp
+
+*.log
+
+# Env vars
+.env
