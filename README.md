@@ -1,2 +1,7 @@
-# Predictive Insights: Machine Learning Forecasting for Stocks and Cryptocurrency Trends
-A project to analyze and predict trends for selected stocks and cryptocurrency. Leveraged extensive research on macroeconomic indicators, industry-specific factors, and behavioral insights, including unconventional and often-overlooked variables. Extracted and engineered key features influencing price movements and used machine learning models to forecast trends, aiming to identify actionable insights and decision-making strategies.
+# Can we predict the movement of various financial instruments?
+
+## Phase 1: Turning a profit → the *easy* way.
+
+![junny](https://github.com/user-attachments/assets/fed29f9f-2233-4a89-b823-2a66fa566e85)
+
+👉 Visit our website to visualize the performance of our fund: [Click here](https://github.com/KimXiao-NEU/Predictive-ML-Model-for-Stocks-and-Crypto/edit/main/README.md#phase-1-turning-a-profit---the-easy-way)
