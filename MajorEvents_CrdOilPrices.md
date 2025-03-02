@@ -47,7 +47,7 @@ WTI began futures trading on NYMEX in 1983 | Brent Crude trading on IPE (Interna
     
     side notes about inflation:
     
-    ![image.png](attachment:e32d601a-ab80-4eb8-aba5-78f33cd75fb0:image.png)
+    ![image.png](Website Photos/inflation_tpe.png:image.png)
     
     1. **Tight Supply & Production Issues** – Several factors limited supply:
     
