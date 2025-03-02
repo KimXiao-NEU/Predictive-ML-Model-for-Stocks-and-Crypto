@@ -1,7 +1,7 @@
 WTI began futures trading on NYMEX in 1983 | Brent Crude trading on IPE (International Petroleum Exchange, now part of Intercontinental Exchange or ICE) in 1988.
 
 #2007.8 - Present(keep updating) price watch & related major events#
-![image.png](attachment:37576ed6-b7a3-48ac-99a7-9feffe46276c:image.png)
+![image.png](/Users/kim/Learning materials/Predictive-ML-Model-for-Stocks-and-Crypto/Website Photos/200708-202502crdoilprice.png/image.png)
 
 - **📈2007.8. - 2008.5 went up fast**
     
