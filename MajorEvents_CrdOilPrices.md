@@ -46,8 +46,7 @@ WTI began futures trading on NYMEX in 1983 | Brent Crude trading on IPE (Interna
         - investor & Hedge Funds —> US housing market collapsed in 2007, investors pulled money from stock & real estate and poured billions into commodities, especially crude oil! Oil became a “safe haven” asset, as inflation fears and a weakening US dollar drove traders to seek returns in hard assets.
     
     side notes about inflation:
-    
-    ![image.png](Website Photos/inflation_tpe.png:image.png)
+    ![Alt text](Website&Photos/inflation_tpe.png)
     
     1. **Tight Supply & Production Issues** – Several factors limited supply:
     
